@@ -1,0 +1,17 @@
+{
+	"name": "PL_githubwait",
+	"properties": {
+		"activities": [
+			{
+				"name": "PL_githubwait",
+				"type": "Wait",
+				"dependsOn": [],
+				"userProperties": [],
+				"typeProperties": {
+					"waitTimeInSeconds": 5
+				}
+			}
+		],
+		"annotations": []
+	}
+}
